@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Taking a .NET Core Web App Offline ... Gracefully](https://dev.to/jamiemcmanus/taking-a-net-core-web-app-offline-gracefully-4clp)
+- [Recreating MYSQL&#39;s LPAD Function in SQL Server](https://dev.to/jamiemcmanus/recreating-mysqls-lpad-function-in-sql-server-36ni)
+- [Why Your :hover Selector isn&#39;t Working](https://dev.to/jamiemcmanus/why-your-hover-selector-isnt-working-2cm7)
+- [Using getElementsByName Method in Javascript](https://dev.to/jamiemcmanus/using-getelementsbyname-method-in-javascript-1jo0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
